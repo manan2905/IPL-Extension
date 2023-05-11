@@ -1,0 +1,12 @@
+{
+    "name": "IPL Updates",
+    "version":"1.0.1",
+    "description": "IPL Showcasing",
+    "manifest_version":3,
+    "author": "Manan Anand",
+    "action": {
+        "default_title":"IPL Showcasing",
+        "defualt_icon":"cricket ball.png",
+        "default_popup":"index.html"
+    }
+}
